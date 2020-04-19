@@ -1,0 +1,50 @@
+.container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 90%;
+  margin: 100px auto;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+  border-radius: 8px;
+}
+
+.container .total_item {
+  color: gray;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0px 4px;
+  padding: 0px 5px;
+  text-align: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  width: 300px;
+  border: gray solid 2px;
+  border-radius: 10px;
+  background-color: white;
+}
+
+.container .total_item .countUp {
+  font-size: 2rem;
+  color: black;
+}
+
+.container .item1 {
+  border-bottom: yellow solid 10px;
+}
+
+.container .item2 {
+  border-bottom: red solid 10px;
+}
+
+.container .item3 {
+  border-bottom: greenyellow solid 10px;
+}
+/*# sourceMappingURL=TotalEffect.module.css.map */

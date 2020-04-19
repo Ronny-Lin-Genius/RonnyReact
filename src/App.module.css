@@ -1,0 +1,42 @@
+body {
+  background-color: #f6fdff;
+}
+
+body main {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  margin-bottom: 150px;
+}
+
+body main .title {
+  position: relative;
+  width: 90%;
+  margin: 100px auto 0px auto;
+}
+
+body main .title img {
+  width: 100%;
+  height: 300px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  opacity: 0.2;
+  border-radius: 15px;
+}
+
+body main .title h1 {
+  font-size: 4rem;
+  width: 100%;
+  text-align: center;
+  position: absolute;
+  top: 30%;
+}
+
+body main .title h1 span {
+  color: #51abff;
+}
+/*# sourceMappingURL=App.module.css.map */
