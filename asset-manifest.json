@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/RonnyReact/static/css/main.c949d7fb.chunk.css",
+    "main.js": "/RonnyReact/static/js/main.cbbc9fb9.chunk.js",
+    "main.js.map": "/RonnyReact/static/js/main.cbbc9fb9.chunk.js.map",
+    "runtime-main.js": "/RonnyReact/static/js/runtime-main.8f164d32.js",
+    "runtime-main.js.map": "/RonnyReact/static/js/runtime-main.8f164d32.js.map",
+    "static/js/2.639bbab3.chunk.js": "/RonnyReact/static/js/2.639bbab3.chunk.js",
+    "static/js/2.639bbab3.chunk.js.map": "/RonnyReact/static/js/2.639bbab3.chunk.js.map",
+    "index.html": "/RonnyReact/index.html",
+    "precache-manifest.8791fb2aa7f47f55d5fea1294c93d88e.js": "/RonnyReact/precache-manifest.8791fb2aa7f47f55d5fea1294c93d88e.js",
+    "service-worker.js": "/RonnyReact/service-worker.js",
+    "static/css/main.c949d7fb.chunk.css.map": "/RonnyReact/static/css/main.c949d7fb.chunk.css.map",
+    "static/js/2.639bbab3.chunk.js.LICENSE.txt": "/RonnyReact/static/js/2.639bbab3.chunk.js.LICENSE.txt",
+    "static/media/coronavirus.jpg": "/RonnyReact/static/media/coronavirus.fa962a88.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f164d32.js",
+    "static/js/2.639bbab3.chunk.js",
+    "static/css/main.c949d7fb.chunk.css",
+    "static/js/main.cbbc9fb9.chunk.js"
+  ]
+}
